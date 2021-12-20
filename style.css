@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+/* common property*/
+html{
+    font-size: border-box;
+}
+
+body{
+    font-family: 'Inconsolata', monospace;
+}
+/* LOGO*/
+#logo{
+    max-width: 4rem;
+    max-height: 3rem;
+}
+#logo:hover{
+    box-shadow: 1px 2px 4px 2px #02a4e4;
+    transition: 1s all;
+}
