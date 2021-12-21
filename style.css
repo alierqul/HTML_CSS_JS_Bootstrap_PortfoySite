@@ -65,3 +65,14 @@ overflow: hidden;
 header div{
     max-height: 48rem;;
 }
+
+/* Footer*/
+footer{
+    height: 18rem;
+
+}
+footer ul li i{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    color: blueviolet;
+}
