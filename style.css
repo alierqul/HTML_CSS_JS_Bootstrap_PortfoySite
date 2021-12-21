@@ -61,3 +61,7 @@ overflow: hidden;
 #navbar_id i{
     color:rgb(76, 76, 216);
 }
+/* header*/
+header div{
+    max-height: 48rem;;
+}
