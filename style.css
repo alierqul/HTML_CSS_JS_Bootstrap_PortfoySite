@@ -97,6 +97,10 @@ header div{
     text-transform: uppercase;
 }
 
+#product .row .card{
+    margin-bottom: 4%;
+}
+
 /*footer*/
 footer{
     height: 18rem;
@@ -115,5 +119,4 @@ footer ul li i a{
 #footer_sub{
     height: 4rem;
     padding-top:1rem;
-    
 }
